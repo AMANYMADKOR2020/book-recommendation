@@ -2,8 +2,14 @@
 
 ![dashboard](/res/book_dashboard.png)
 
-A dashboard that shows you some analysis based on multiple queries.
+A dashboard that shows you top 5 recommend books depends on the user ratings on other books and the wordcloud .
+## To use this dashboard
+You should enter user id then submit
+```bash
+user id range 
+[1,2,5,7,9,11,14,16,18......2945]
 
+```
 ## Usage and installation
 
 1.Create and activate a virtual environment
@@ -23,4 +29,12 @@ $pip install -r requirements.txt
 
 ```bash
 $python app.py
+```
+
+```bash
+data source 
+
+```
+```bash
+link on heroku
 ```
