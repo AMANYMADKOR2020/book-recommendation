@@ -33,8 +33,9 @@ $python app.py
 
 ```bash
 data source 
-
+https://github.com/caserec/Datasets-for-Recommender-Systems
 ```
 ```bash
 link on heroku
+https://book-recommend-dashboard.herokuapp.com/
 ```
